@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.genesiscore.com"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/coregenesis"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Genesis Core Website",
+        "url": "https://genesiscore.org/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/GenesisNetworkBlockchain"
+      }
+    ]
+  }
+]
